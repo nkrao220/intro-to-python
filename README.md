@@ -2,7 +2,7 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **https://github.com/thomas-bell/intro-to-python**
+Get to this repo by typing in URL: **https://github.com/nkrao220/intro-to-python**
 
 ### FAQ: 
 
@@ -57,8 +57,8 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 ## About me:
 
-Kevin Kaltenbacher CFA, CFP - associate data science instructor - data scientist 
-https://www.linkedin.com/in/kevin-kaltenbacher/
+Neha Rao - associate data science instructor - data scientist 
+https://www.linkedin.com/in/neha-k-rao/
 
 
 
@@ -161,7 +161,7 @@ Numbers are written just like you would think. Just the number! No quotes or sym
 
 `25` `100`
 
-Multiple, Add, Divide, Compare, remainder
+Multiply, Add, Divide, Compare, remainder
 
 - `5 * 5` | output: 25
 - `5 + 5` | output: 10
@@ -303,7 +303,7 @@ read more about python lists[here](https://www.w3schools.com/python/python_lists
 
 #### Tuples
 
-Tuples behave a lot like lists, except you can change the values
+Tuples behave a lot like lists, except you can't change the values
 
 
 ```
@@ -719,7 +719,7 @@ What are some ideas for improvements?
 
 Learning resources:
 
-- [Python Fundamentals: accelearated TUITION CREDIT AVAILABLE!!](https://www.eventbrite.com/e/python-fundamentals-accelerated-6319-62019-tickets-61111366743)
+- [Python Fundamentals: accelerated TUITION CREDIT AVAILABLE!!](https://www.eventbrite.com/e/python-fundamentals-accelerated-71519-8119-tickets-61900891232)
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
 - [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration) - 250$ | Receive live online support and personal progress updates
@@ -738,7 +738,7 @@ We host so many events! check out our [calendar](https://www.galvanize.com/event
 Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.com/learn-to-code-colorado/) (https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
 
 
-[Web Scraping with Python](https://www.eventbrite.com/e/web-scraping-with-python-tickets-56377132521) 2hour workshop! 
+[Web Scraping with Python](https://www.galvanize.com/events/8544349-introduction-to-web-scraping-with-python) 2hour workshop! 
 
 ## What is Galvanize?
 ###### We are a community!
@@ -767,7 +767,7 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 
 
 -LinkedIn 
--Email 
+-Email [neha.rao@galvanize.com]
 
 
 Questions about education at Galvanize email [travis@galvanize.com](travis.com
