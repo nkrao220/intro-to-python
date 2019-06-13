@@ -770,7 +770,7 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 -Email [neha.rao@galvanize.com]
 
 
-Questions about education at Galvanize email [travis@galvanize.com](travis.com
+Questions about education at Galvanize email [travis@galvanize.com](travis@galvanize.com)
 
 
 
