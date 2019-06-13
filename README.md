@@ -751,10 +751,10 @@ Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.co
 
 #### Part-Time Courses
 
-- [Digital Marketing with Data](
-- [Python Fundamentals](
-- [Introduction to Data Science] (
-
+- [Digital Marketing with Data](https://www.galvanize.com/part-time/digital-marketing)
+- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals)
+- [Introduction to Data Science] (https://www.galvanize.com/part-time/intro-to-data-science)
+- [Data Analytics] (https://www.galvanize.com/part-time/data-analytics)
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
