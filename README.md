@@ -756,6 +756,7 @@ Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.co
 - [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals)
 - [Introduction to Data Science] (https://www.galvanize.com/part-time/intro-to-data-science)
 
+
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
