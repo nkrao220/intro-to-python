@@ -721,11 +721,9 @@ Learning resources:
 
 - [Python Fundamentals: accelerated TUITION CREDIT AVAILABLE!!](https://www.eventbrite.com/e/python-fundamentals-accelerated-91619-10319-tickets-66397884861)
 
-- [Intro to Data Science: Tuition Credit Available](https://www.eventbrite.com/e/python-fundamentals-accelerated-91619-10319-tickets-66397884861)
+- [Intro to Data Science: Tuition Credit Available](https://www.eventbrite.com/e/intro-to-data-science-evening-intensive-tickets-65055755516)
 
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
-
-- [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration) - 250$ | Receive live online support and personal progress updates
 
 - [w3schools](https://www.w3schools.com/python/default.asp) | Free
 
@@ -741,7 +739,7 @@ We host so many events! check out our [calendar](https://www.galvanize.com/event
 Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.com/learn-to-code-colorado/) (https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
 
 
-[Web Scraping with Python](https://www.galvanize.com/events/8544349-introduction-to-web-scraping-with-python) 2hour workshop! 
+[Web Scraping with Python](https://www.eventbrite.com/e/web-scraping-with-python-tickets-59851454311) 2hour workshop! 
 
 ## What is Galvanize?
 ###### We are a community!
@@ -757,7 +755,7 @@ Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.co
 - [Digital Marketing with Data](https://www.galvanize.com/part-time/digital-marketing)
 - [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals)
 - [Introduction to Data Science] (https://www.galvanize.com/part-time/intro-to-data-science)
-- [Data Analytics] (https://www.galvanize.com/part-time/data-analytics)
+
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
