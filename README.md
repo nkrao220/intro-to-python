@@ -138,8 +138,8 @@ Think of it as naming a piece of data.
 
 its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
 
-- `twitter = "@sagecodes";`
-- `score = 0;`
+- `twitter = "@sagecodes"`
+- `score = 0`
 
 --------
 
@@ -404,7 +404,7 @@ Example:
   elif guess < answer:
       message = "Your guess is too low!"
   elif guess > answer:
-      message = "your guess is too high!";
+      message = "your guess is too high!"
   else:
     message = "I think you entered something wrong..."
 
